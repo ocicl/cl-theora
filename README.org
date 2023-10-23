@@ -1,0 +1,10 @@
+* cl-theora
+
+A decoder library for the OGG/Theora video format via the theorafile C
+library
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/Shirakumo/cl-theora.git |
+| commit  | 46dbaa3                                               |
+| systems | cl-theora                                      |
+|---------+------------------------------------------------|

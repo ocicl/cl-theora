@@ -5,7 +5,7 @@ library
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/Shirakumo/cl-theora.git |
-| commit  | 2227bea                                        |
+| commit  | 7c9e74c                                        |
 | systems | cl-theora                                      |
 |---------+------------------------------------------------|
 -----|

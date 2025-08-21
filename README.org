@@ -5,6 +5,6 @@ library
 
 |---------+--------------------------------------------------|
 | source  | git:https://codeberg.org/shirakumo/cl-theora.git |
-| commit  | d393a93                                          |
+| commit  | e77c5de                                          |
 | systems | cl-theora                                        |
 |---------+--------------------------------------------------|

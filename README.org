@@ -3,9 +3,8 @@
 A decoder library for the OGG/Theora video format via the theorafile C
 library
 
-|---------+------------------------------------------------|
+|---------+--------------------------------------------------|
 | source  | git:https://codeberg.org/shirakumo/cl-theora.git |
-| commit  | 77213d1                                        |
-| systems | cl-theora                                      |
-|---------+------------------------------------------------|
------|
+| commit  | c38c0b1                                          |
+| systems | cl-theora                                        |
+|---------+--------------------------------------------------|
